@@ -7,7 +7,5 @@ Import RAW data from Excel
 Cleaning and Transformation of Data using Power Query
 Created dashboard based on the requirements of HR
 
-#Insights
-WFH happens most on Friday
-Most Employees present on Mondays
+
 
